@@ -1,0 +1,814 @@
+{
+    "pokemon": [
+        {
+            "nombre": "Bulbasaur",
+            "nombre_aleman": "Bisasam",
+            "nombre_frances": "Bulbizarre",
+            "nombre_italiano": "Bulbasaur",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\bulbasaur.png",
+            "ruta_silueta": "imagenes_silueta\\bulbasaur_silueta.png"
+        },
+        {
+            "nombre": "Pikachu",
+            "nombre_aleman": "Pikachu",
+            "nombre_frances": "Pikachu",
+            "nombre_italiano": "Pikachu",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\pikachu.png",
+            "ruta_silueta": "imagenes_silueta\\pikachu_silueta.png"
+        },
+        {
+            "nombre": "Lapras",
+            "nombre_aleman": "Lapras",
+            "nombre_frances": "Lokhlass",
+            "nombre_italiano": "Lapras",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\lapras.png",
+            "ruta_silueta": "imagenes_silueta\\lapras_silueta.png"
+        },
+        {
+            "nombre": "Articuno",
+            "nombre_aleman": "Arktos",
+            "nombre_frances": "Artikodin",
+            "nombre_italiano": "Articuno",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\articuno.png",
+            "ruta_silueta": "imagenes_silueta\\articuno_silueta.png"
+        },
+        {
+            "nombre": "Eevee",
+            "nombre_aleman": "Evoli",
+            "nombre_frances": "Evoli",
+            "nombre_italiano": "Eevee",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\eevee.png",
+            "ruta_silueta": "imagenes_silueta\\eevee_silueta.png"
+        },
+        {
+            "nombre": "Snorlax",
+            "nombre_aleman": "Relaxo",
+            "nombre_frances": "Ronflex",
+            "nombre_italiano": "Snorlax",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\snorlax.png",
+            "ruta_silueta": "imagenes_silueta\\snorlax_silueta.png"
+        },
+        {
+            "nombre": "Rattata",
+            "nombre_aleman": "Rattfratz",
+            "nombre_frances": "Rattata",
+            "nombre_italiano": "Rattata",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\rattata.png",
+            "ruta_silueta": "imagenes_silueta\\rattata_silueta.png"
+        },
+        {
+            "nombre": "Mewtwo",
+            "nombre_aleman": "Mewtu",
+            "nombre_frances": "Mewtwo",
+            "nombre_italiano": "Mewtwo",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\mewtwo.png",
+            "ruta_silueta": "imagenes_silueta\\mewtwo_silueta.png"
+        },
+        {
+            "nombre": "Blastoise",
+            "nombre_aleman": "Turtok",
+            "nombre_frances": "Tortank",
+            "nombre_italiano": "Blastoise",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\blastoise.png",
+            "ruta_silueta": "imagenes_silueta\\blastoise_silueta.png"
+        },
+        {
+            "nombre": "Charizard",
+            "nombre_aleman": "Glurak",
+            "nombre_frances": "Dracaufeu",
+            "nombre_italiano": "Charizard",
+            "generacion": "primera",
+            "ruta_imagen": "imagenes_pokemon\\charizard.png",
+            "ruta_silueta": "imagenes_silueta\\charizard_silueta.png"
+        },
+        {
+            "nombre": "Ho Oh",
+            "nombre_aleman":"Ho Oh",
+            "nombre_frances": "Ho Oh",
+            "nombre_italiano": "Ho Oh",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\ho-oh.png",
+            "ruta_silueta": "imagenes_silueta\\ho-oh_silueta.png"
+        },
+        {
+            "nombre": "Cyndaquil",
+            "nombre_aleman":"Feurigel",
+            "nombre_frances": "Hericendre",
+            "nombre_italiano": "Cyndaquil",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\cyndaquil.png",
+            "ruta_silueta": "imagenes_silueta\\cyndaquil_silueta.png"
+        },
+        {
+            "nombre": "Suicune",
+            "nombre_aleman":"Suicune",
+            "nombre_frances": "Suicune",
+            "nombre_italiano": "Suicune",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\suicune.png",
+            "ruta_silueta": "imagenes_silueta\\suicune_silueta.png" 
+        },
+        {
+            "nombre": "Tyranitar",
+            "nombre_aleman":"Despotar",
+            "nombre_frances": "Tyranocif",
+            "nombre_italiano": "Tyranitar",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\tyranitar.png",
+            "ruta_silueta": "imagenes_silueta\\tyranitar_silueta.png"
+        },
+        {
+            "nombre": "Typhlosion",
+            "nombre_aleman":"Tornupto",
+            "nombre_frances": "Typhlosion",
+            "nombre_italiano": "Typhlosion",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\typhlosion.png",
+            "ruta_silueta": "imagenes_silueta\\typhlosion_silueta.png" 
+        },
+        {
+            "nombre": "Feraligatr",
+            "nombre_aleman":"Impergator",
+            "nombre_frances": "Aligatueur",
+            "nombre_italiano": "Feraligatr",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\feraligatr.png",
+            "ruta_silueta": "imagenes_silueta\\feraligatr_silueta.png"
+        },
+        {
+            "nombre": "Noctowl",
+            "nombre_aleman":"Noctuh",
+            "nombre_frances": "Noarfang",
+            "nombre_italiano": "Noctowl",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\noctowl.png",
+            "ruta_silueta": "imagenes_silueta\\noctowl_silueta.png"
+        },
+        {
+            "nombre": "Crobat",
+            "nombre_aleman":"Iksbat",
+            "nombre_frances": "Nostenfer",
+            "nombre_italiano": "Crobat",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\crobat.png",
+            "ruta_silueta": "imagenes_silueta\\crobat_silueta.png"
+        },
+        {
+            "nombre": "Furret",
+            "nombre_aleman":"Wiesenior",
+            "nombre_frances": "Fouinar",
+            "nombre_italiano": "Furret",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\furret.png",
+            "ruta_silueta": "imagenes_silueta\\furret_silueta.png"
+        },
+        {
+            "nombre": "Sunflora",
+            "nombre_aleman":"Sonnflora",
+            "nombre_frances": "Heliatronc",
+            "nombre_italiano": "Sunflora",
+            "generacion": "segunda",
+            "ruta_imagen": "imagenes_pokemon\\sunflora.png",
+            "ruta_silueta": "imagenes_silueta\\sunflora_silueta.png"
+        },
+        {
+            "nombre": "Aggron",
+            "nombre_aleman":"Stolloss",
+            "nombre_frances": "Galeking",
+            "nombre_italiano": " Aggron",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\aggron.png",
+            "ruta_silueta": "imagenes_silueta\\aggron_silueta.png"
+        },
+        {
+            "nombre": "Flygon",
+            "nombre_aleman":"Libelldra",
+            "nombre_frances": "Libegon",
+            "nombre_italiano": "Flygon",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\flygon.png",
+            "ruta_silueta": "imagenes_silueta\\flygon_silueta.png"
+        },
+        {
+            "nombre": "Metagross",
+            "nombre_aleman":"Metagross",
+            "nombre_frances": "Metalosse",
+            "nombre_italiano": "Metagross",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\metagross.png",
+            "ruta_silueta": "imagenes_silueta\\metagross_silueta.png"
+        },
+        {
+            "nombre": "Salamence",
+            "nombre_aleman":"Brutalanda",
+            "nombre_frances": "Drattak",
+            "nombre_italiano": "Salamence",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\salamence.png",
+            "ruta_silueta": "imagenes_silueta\\salamence_silueta.png"
+        },
+        {
+            "nombre": "Slaking",
+            "nombre_aleman":"Letarking",
+            "nombre_frances": "Monaflemit",
+            "nombre_italiano": "Slaking",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\slaking.png",
+            "ruta_silueta": "imagenes_silueta\\slaking_silueta.png"
+        },
+        {
+            "nombre": "Blaziken",
+            "nombre_aleman":"Lohgock",
+            "nombre_frances": "Brasegali",
+            "nombre_italiano": "Blaziken",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\blaziken.png",
+            "ruta_silueta": "imagenes_silueta\\blaziken_silueta.png"
+        },
+        {
+            "nombre": "Swampert",
+            "nombre_aleman":"Lohgock",
+            "nombre_frances": "Braségali",
+            "nombre_italiano": "Blaziken",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\swampert.png",
+            "ruta_silueta": "imagenes_silueta\\swampert_silueta.png"
+        },
+        {
+            "nombre": "Mightyena",
+            "nombre_aleman":"Magnayen",
+            "nombre_frances": "Grahyena",
+            "nombre_italiano": "Mightyena",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\mightyena.png",
+            "ruta_silueta": "imagenes_silueta\\mightyena_silueta.png"
+        },
+        {
+            "nombre": "Cascoon",
+            "nombre_aleman":"Panekon",
+            "nombre_frances": "Blindalys",
+            "nombre_italiano": "Cascoon",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\cascoon.png",
+            "ruta_silueta": "imagenes_silueta\\cascoon_silueta.png"
+        },
+        {
+            "nombre": "Seedot",
+            "nombre_aleman":"Samurzel",
+            "nombre_frances": "Grainipiot",
+            "nombre_italiano": "Seedot",
+            "generacion": "tercera",
+            "ruta_imagen": "imagenes_pokemon\\seedot.png",
+            "ruta_silueta": "imagenes_silueta\\seedot_silueta.png"
+        },
+        {
+            "nombre": "Arceus",
+            "nombre_aleman":"Arceus",
+            "nombre_frances": "Arceus",
+            "nombre_italiano": "Arceus",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\arceus.png",
+            "ruta_silueta": "imagenes_silueta\\arceus_silueta.png"
+        },
+        {
+            "nombre": "Chimchar",
+            "nombre_aleman":"Panflam",
+            "nombre_frances": "Ouisticram",
+            "nombre_italiano": "Chimchar",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\chimchar.png",
+            "ruta_silueta": "imagenes_silueta\\chimchar_silueta.png"
+        },
+        {
+            "nombre": "Garchomp",
+            "nombre_aleman":"Knakrack",
+            "nombre_frances": "Carchacrok",
+            "nombre_italiano": "Garchomp",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\garchomp.png",
+            "ruta_silueta": "imagenes_silueta\\garchomp_silueta.png"
+        },
+        {
+            "nombre": "Probopass",
+            "nombre_aleman":"Voluminas",
+            "nombre_frances": "Tarinorme",
+            "nombre_italiano": "Probopass",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\probopass.png",
+            "ruta_silueta": "imagenes_silueta\\probopass_silueta.png"
+        },
+        {
+            "nombre": "Torterra",
+            "nombre_aleman":"Chelterrar",
+            "nombre_frances": "Torterra",
+            "nombre_italiano": "Torterra",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\torterra.png",
+            "ruta_silueta": "imagenes_silueta\\torterra_silueta.png"
+        },
+        {
+            "nombre": "Infernape",
+            "nombre_aleman":"Panferno",
+            "nombre_frances": "Simiabraz",
+            "nombre_italiano": "Infernape",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\infernape.png",
+            "ruta_silueta": "imagenes_silueta\\infernape_silueta.png"
+        },
+        {
+            "nombre": "Staraptor",
+            "nombre_aleman":"Staraptor",
+            "nombre_frances": "Etouraptor",
+            "nombre_italiano": "Staraptor",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\staraptor.png",
+            "ruta_silueta": "imagenes_silueta\\staraptor_silueta.png"
+        },
+        {
+            "nombre": "Luxray",
+            "nombre_aleman":"Luxtra",
+            "nombre_frances": "Luxray",
+            "nombre_italiano": "Luxray",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\luxray.png",
+            "ruta_silueta": "imagenes_silueta\\luxray_silueta.png"
+        },
+        {
+            "nombre": "Rampardos",
+            "nombre_aleman":"Rameidon",
+            "nombre_frances": "Charkos",
+            "nombre_italiano": "Rampardos",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\rampardos.png",
+            "ruta_silueta": "imagenes_silueta\\rampardos_silueta.png"
+        },
+        {
+            "nombre": "Bastiodon",
+            "nombre_aleman":"Bollterus",
+            "nombre_frances": "Bastiodon",
+            "nombre_italiano": "Bastiodon",
+            "generacion": "cuarta",
+            "ruta_imagen": "imagenes_pokemon\\bastiodon.png",
+            "ruta_silueta": "imagenes_silueta\\bastiodon_silueta.png"
+        },
+        {
+            "nombre": "Amoonguss",
+            "nombre_aleman":"Hutsassa",
+            "nombre_frances": "Gaulet",
+            "nombre_italiano": "Amoonguss",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\amoonguss.png",
+            "ruta_silueta": "imagenes_silueta\\amoonguss_silueta.png"
+        },
+        {
+            "nombre": "Garbodor",
+            "nombre_aleman":"Deponitox",
+            "nombre_frances": "Miasmax",
+            "nombre_italiano": "Garbodor",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\garbodor.png",
+            "ruta_silueta": "imagenes_silueta\\garbodor_silueta.png"
+        },
+        {
+            "nombre": "Golurk",
+            "nombre_aleman":"Golgantes",
+            "nombre_frances": "Golemastoc",
+            "nombre_italiano": "Golurk",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\golurk.png",
+            "ruta_silueta": "imagenes_silueta\\golurk_silueta.png"
+        },
+        {
+            "nombre": "Haxorus",
+            "nombre_aleman":"Maxax",
+            "nombre_frances": "Tranchodon",
+            "nombre_italiano": "Haxorus",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\haxorus.png",
+            "ruta_silueta": "imagenes_silueta\\haxorus_silueta.png"
+        },
+        {
+            "nombre": "Hydreigon",
+            "nombre_aleman":"Trikephalo",
+            "nombre_frances": "Trioxhydre",
+            "nombre_italiano": "Hydreigon",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\hydreigon.png",
+            "ruta_silueta": "imagenes_silueta\\hydreigon_silueta.png"
+        },
+        {
+            "nombre": "Zekrom",
+            "nombre_aleman":"Zekrom",
+            "nombre_frances": "Zekrom",
+            "nombre_italiano": "Zekrom",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\zekrom.png",
+            "ruta_silueta": "imagenes_silueta\\zekrom_silueta.png"
+        },
+        {
+            "nombre": "Emboar",
+            "nombre_aleman":" Flambirex",
+            "nombre_frances": "Roitiflam",
+            "nombre_italiano": "Emboar",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\emboar.png",
+            "ruta_silueta": "imagenes_silueta\\emboar_silueta.png"
+        },
+        {
+            "nombre": "Samurott",
+            "nombre_aleman":"Admurai",
+            "nombre_frances": "Clamiral",
+            "nombre_italiano": "Samurott",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\samurott.png",
+            "ruta_silueta": "imagenes_silueta\\samurott_silueta.png"
+        },
+        {
+            "nombre": "Watchog",
+            "nombre_aleman":"Kukmarda",
+            "nombre_frances": "Miradar",
+            "nombre_italiano": "Watchog",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\watchog.png",
+            "ruta_silueta": "imagenes_silueta\\watchog_silueta.png"
+        },
+        {
+            "nombre": "Liepard",
+            "nombre_aleman":"Kleoparda",
+            "nombre_frances": "Leopardus",
+            "nombre_italiano": "Liepard",
+            "generacion": "quinta",
+            "ruta_imagen": "imagenes_pokemon\\liepard.png",
+            "ruta_silueta": "imagenes_silueta\\liepard_silueta.png"
+        },
+        {
+            "nombre": "Goodra",
+            "nombre_aleman":"Viscorgon",
+            "nombre_frances": "Muplodocus",
+            "nombre_italiano": "Goodra",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\goodra.png",
+            "ruta_silueta": "imagenes_silueta\\goodra_silueta.png"
+        },
+        {
+            "nombre": "Greninja",
+            "nombre_aleman":"Quajutsu",
+            "nombre_frances": "Amphinobi",
+            "nombre_italiano": "Greninja",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\greninja.png",
+            "ruta_silueta": "imagenes_silueta\\greninja_silueta.png"
+        },
+        {
+            "nombre": "Hawlucha",
+            "nombre_aleman":"Resladero",
+            "nombre_frances": "Brutalibre",
+            "nombre_italiano": "Hawlucha",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\hawlucha.png",
+            "ruta_silueta": "imagenes_silueta\\hawlucha_silueta.png"
+        },
+        {
+            "nombre": "Pangoro",
+            "nombre_aleman":"Pandagro",
+            "nombre_frances": "Pandarbare",
+            "nombre_italiano": "Pangoro",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\pangoro.png",
+            "ruta_silueta": "imagenes_silueta\\pangoro_silueta.png"
+        },
+        {
+            "nombre": "Tyrantrum",
+            "nombre_aleman":"Monargoras",
+            "nombre_frances": "Rexillius",
+            "nombre_italiano": "Tyrantrum",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\tyrantrum.png",
+            "ruta_silueta": "imagenes_silueta\\tyrantrum_silueta.png"
+        },
+        {
+            "nombre": "Chesnaught",
+            "nombre_aleman":"Brigaron",
+            "nombre_frances": "Blindepique",
+            "nombre_italiano": "Chesnaught",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\chesnaught.png",
+            "ruta_silueta": "imagenes_silueta\\chesnaught_silueta.png"
+        },
+        {
+            "nombre": "Delphox",
+            "nombre_aleman":"Fennexis",
+            "nombre_frances": "Goupelin",
+            "nombre_italiano": "Delphox",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\delphox.png",
+            "ruta_silueta": "imagenes_silueta\\delphox_silueta.png"
+        },
+        {
+            "nombre": "Diggersby",
+            "nombre_aleman":"Grebbit",
+            "nombre_frances": "Excavarenne",
+            "nombre_italiano": "Diggersby",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\diggersby.png",
+            "ruta_silueta": "imagenes_silueta\\diggersby_silueta.png"
+        },
+        {
+            "nombre": "Talonflame",
+            "nombre_aleman":"Fiaro",
+            "nombre_frances": "Flambusard",
+            "nombre_italiano": "Talonflame",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\talonflame.png",
+            "ruta_silueta": "imagenes_silueta\\talonflame_silueta.png"
+        },
+        {
+            "nombre": "Pyroar",
+            "nombre_aleman":"Pyroleo",
+            "nombre_frances": "Nemelios",
+            "nombre_italiano": "Pyroar",
+            "generacion": "sexta",
+            "ruta_imagen": "imagenes_pokemon\\pyroar.png",
+            "ruta_silueta": "imagenes_silueta\\pyroar_silueta.png"
+        },
+        {
+            "nombre": "Buzzwole",
+            "nombre_aleman":"Masskito",
+            "nombre_frances": "Mouscoto",
+            "nombre_italiano": "Buzzwole",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\buzzwole.png",
+            "ruta_silueta": "imagenes_silueta\\buzzwole_silueta.png"
+        },
+        {
+            "nombre": "Oranguru",
+            "nombre_aleman":"Kommandutan",
+            "nombre_frances": "Gouroutan",
+            "nombre_italiano": "Oranguru",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\oranguru.png",
+            "ruta_silueta": "imagenes_silueta\\oranguru_silueta.png"
+        },
+        {
+            "nombre": "Palossand",
+            "nombre_aleman":"Colossand",
+            "nombre_frances": "Trepassable",
+            "nombre_italiano": "Palossand",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\palossand.png",
+            "ruta_silueta": "imagenes_silueta\\palossand_silueta.png"
+        },
+        {
+            "nombre": "Stakataka",
+            "nombre_aleman":"Muramura",
+            "nombre_frances": "Ama Ama",
+            "nombre_italiano": "Stakataka",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\stakataka.png",
+            "ruta_silueta": "imagenes_silueta\\stakataka_silueta.png"
+        },
+        {
+            "nombre": "Turtonator",
+            "nombre_aleman":"Turtonator",
+            "nombre_frances": "Boumata",
+            "nombre_italiano": "Turtonator",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\turtonator.png",
+            "ruta_silueta": "imagenes_silueta\\turtonator_silueta.png"
+        },
+        {
+            "nombre": "Decidueye",
+            "nombre_aleman":"Silvarro",
+            "nombre_frances": "Archeduc",
+            "nombre_italiano": "Decidueye",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\decidueye.png",
+            "ruta_silueta": "imagenes_silueta\\decidueye_silueta.png"
+        },
+        {
+            "nombre": "Incineroar",
+            "nombre_aleman":"Fuegro",
+            "nombre_frances": "Felinferno",
+            "nombre_italiano": "Incineroar",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\incineroar.png",
+            "ruta_silueta": "imagenes_silueta\\incineroar_silueta.png"
+        },
+        {
+            "nombre": "Toucannon",
+            "nombre_aleman":"Tukanon",
+            "nombre_frances": "Bazoucan",
+            "nombre_italiano": "Toucannon",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\toucannon.png",
+            "ruta_silueta": "imagenes_silueta\\toucannon_silueta.png"
+        },
+        {
+            "nombre": "Crabominable",
+            "nombre_aleman":"Krawell",
+            "nombre_frances": "Crabominable",
+            "nombre_italiano": "Crabominable",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\crabominable.png",
+            "ruta_silueta": "imagenes_silueta\\crabominable_silueta.png"
+        },
+        {
+            "nombre": "Mudsdale",
+            "nombre_aleman":"Pampross",
+            "nombre_frances": "Bourrinos",
+            "nombre_italiano": "Mudsdale",
+            "generacion": "septima",
+            "ruta_imagen": "imagenes_pokemon\\mudsdale.png",
+            "ruta_silueta": "imagenes_silueta\\mudsdale_silueta.png"
+        },
+        {
+            "nombre": "Coalossal",
+            "nombre_aleman":"Montecarbo",
+            "nombre_frances": "Monthracite",
+            "nombre_italiano": "Coalossal",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\coalossal.png",
+            "ruta_silueta": "imagenes_silueta\\coalossal_silueta.png"
+        },
+        {
+            "nombre": "Corviknight",
+            "nombre_aleman":"Krarmor",
+            "nombre_frances": "Corvaillus",
+            "nombre_italiano": "Corviknight",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\corviknight.png",
+            "ruta_silueta": "imagenes_silueta\\corviknight_silueta.png"
+        },
+        {
+            "nombre": "Drednaw",
+            "nombre_aleman":"Kamalm",
+            "nombre_frances": "Torgamord",
+            "nombre_italiano": "Drednaw",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\drednaw.png",
+            "ruta_silueta": "imagenes_silueta\\drednaw_silueta.png"
+        },
+        {
+            "nombre": "Eternatus",
+            "nombre_aleman":"Endynalos",
+            "nombre_frances": "Ethernatos",
+            "nombre_italiano": "Eternatus",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\eternatus.png",
+            "ruta_silueta": "imagenes_silueta\\eternatus_silueta.png"
+        },
+        {
+            "nombre": "Rillaboom",
+            "nombre_aleman":"Gortrom",
+            "nombre_frances": "Gorythmic",
+            "nombre_italiano": "Rillaboom",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\rillaboom.png",
+            "ruta_silueta": "imagenes_silueta\\rillaboom_silueta.png"
+        },
+        {
+            "nombre": "Zamazenta",
+            "nombre_aleman":"Zamazenta",
+            "nombre_frances": "Zamazenta",
+            "nombre_italiano": "Zamazenta",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\zamazenta.png",
+            "ruta_silueta": "imagenes_silueta\\zamazenta_silueta.png"
+        },
+        {
+            "nombre": "Zarude",
+            "nombre_aleman":"Zarude",
+            "nombre_frances": "Zarude",
+            "nombre_italiano": "Zarude",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\zarude.png",
+            "ruta_silueta": "imagenes_silueta\\zarude_silueta.png"
+        },
+        {
+            "nombre": "Barraskewda",
+            "nombre_aleman":"Barrakiefa",
+            "nombre_frances": "Hastacuda",
+            "nombre_italiano": "Barraskewda",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\barraskewda.png",
+            "ruta_silueta": "imagenes_silueta\\barraskewda_silueta.png"
+        },
+        {
+            "nombre": "Centiskorch",
+            "nombre_aleman":"Infernopod",
+            "nombre_frances": "Scolocendre",
+            "nombre_italiano": "Centiskorch",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\centiskorch.png",
+            "ruta_silueta": "imagenes_silueta\\centiskorch_silueta.png"
+        },
+        {
+            "nombre": "Grapploct",
+            "nombre_aleman":"Kaocto",
+            "nombre_frances": "Krakos",
+            "nombre_italiano": "Grapploct",
+            "generacion": "octava",
+            "ruta_imagen": "imagenes_pokemon\\grapploct.png",
+            "ruta_silueta": "imagenes_silueta\\grapploct_silueta.png"
+        },
+        {
+            "nombre": "Annihilape",
+            "nombre_aleman":"Epitaff",
+            "nombre_frances": "Courrousinge",
+            "nombre_italiano": "Annihilape",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\annihilape.png",
+            "ruta_silueta": "imagenes_silueta\\annihilape_silueta.png"
+        },
+        {
+            "nombre": "Bramaluna",
+            "nombre_aleman":"Donnersichel",
+            "nombre_frances": "Rugit Lune",
+            "nombre_italiano": "Lunaruggente",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\bramaluna.png",
+            "ruta_silueta": "imagenes_silueta\\bramaluna_silueta.png"
+        },
+        {
+            "nombre": "Electrofuria",
+            "nombre_aleman":"Furienblitz",
+            "nombre_frances": "Ire Foudre",
+            "nombre_italiano": "Furiatonante",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\electrofuria.png",
+            "ruta_silueta": "imagenes_silueta\\electrofuria_silueta.png"
+        },
+        {
+            "nombre": "Flamariete",
+            "nombre_aleman":"Keilflamme",
+            "nombre_frances": "Feu Percant",
+            "nombre_italiano": "Vampeaguzze",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\flamariete.png",
+            "ruta_silueta": "imagenes_silueta\\flamariete_silueta.png"
+        },
+        {
+            "nombre": "Greavard",
+            "nombre_aleman":"Gruff",
+            "nombre_frances": "Toutombe",
+            "nombre_italiano": "Greavard",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\greavard.png",
+            "ruta_silueta": "imagenes_silueta\\greavard_silueta.png"
+        },
+        {
+            "nombre": "Koraidon",
+            "nombre_aleman":"Koraidon",
+            "nombre_frances": "Koraidon",
+            "nombre_italiano": "Koraidon",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\koraidon.png",
+            "ruta_silueta": "imagenes_silueta\\koraidon_silueta.png"
+        },
+        {
+            "nombre": "Miraidon",
+            "nombre_aleman":"Miraidon",
+            "nombre_frances": "Miraidon",
+            "nombre_italiano": "Miraidon",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\miraidon.png",
+            "ruta_silueta": "imagenes_silueta\\miraidon_silueta.png"
+        },
+        {
+            "nombre": "Skeledirge",
+            "nombre_aleman":"Skelokrok",
+            "nombre_frances": "Flamigator",
+            "nombre_italiano": "Skeledirge",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\skeledirge.png",
+            "ruta_silueta": "imagenes_silueta\\skeledirge_silueta.png"
+        },
+        {
+            "nombre": "Quaquaval",
+            "nombre_aleman":"Bailonda",
+            "nombre_frances": "Palmaval",
+            "nombre_italiano": "Quaquaval",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\quaquaval.png",
+            "ruta_silueta": "imagenes_silueta\\quaquaval_silueta.png"
+        },
+        {
+            "nombre": "Armarouge",
+            "nombre_aleman":"Crimanzo",
+            "nombre_frances": "Carmadura",
+            "nombre_italiano": "Armarouge",
+            "generacion": "novena",
+            "ruta_imagen": "imagenes_pokemon\\armarouge.png",
+            "ruta_silueta": "imagenes_silueta\\armarouge_silueta.png"
+        }
+    ]
+}
